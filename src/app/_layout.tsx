@@ -10,8 +10,8 @@ export default function RootLayout() {
                     animation:"fade",
                   }}
   >
-    <StackScreen name="index" options={{ title:"Home" }}/> 
-    <StackScreen name="about" options={{ title:"About" }}/> 
+    
+    <StackScreen name="(tabs)" /> 
   </Stack> 
   );
 }
